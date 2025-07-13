@@ -1,4 +1,4 @@
-<div style="width: 100%; height:"200px">
+<div style="width: 100%; height: 100px">
   <img src="header.svg" style="width: 100%; border-radius : 20px" alt="Click to see the source">
 </div>
 
